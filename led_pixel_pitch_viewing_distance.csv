@@ -1,0 +1,15 @@
+pixel_pitch_mm,pixels_per_square_metre,minimum_viewing_distance_m,optimal_viewing_distance_from_m,optimal_viewing_distance_to_m,visual_acuity_distance_m,typical_applications
+0.9,1234568,0.9,1.8,2.7,3.1,"Boardrooms, control rooms, broadcast studios"
+1.2,694444,1.2,2.4,3.6,4.13,"Boardrooms, luxury retail, close-view reception walls"
+1.5,444444,1.5,3.0,4.5,5.16,"Corporate lobbies, conference stages, retail"
+1.86,289051,1.86,3.72,5.58,6.4,"Lecterns, reception desks, exhibition stands"
+2.0,250000,2.0,4.0,6.0,6.88,"Exhibition stands, indoor retail displays"
+2.5,160000,2.5,5.0,7.5,8.6,"Trade show backdrops, conference stages"
+2.9,118906,2.9,5.8,8.7,9.98,"Event stages, rental screens, large exhibition stands"
+3.9,65746,3.9,7.8,11.7,13.42,"Large stages, concerts, big halls"
+4.8,43403,4.8,9.6,14.4,16.51,"Outdoor events, shopfront screens"
+5.9,28727,5.9,11.8,17.7,20.3,"Outdoor events, festivals"
+6.9,21004,6.9,13.8,20.7,23.74,"Outdoor advertising, large venues"
+8.0,15625,8.0,16.0,24.0,27.52,Roadside and building-mounted advertising
+10.0,10000,10.0,20.0,30.0,34.4,"Stadiums, long-distance outdoor advertising"
+16.0,3906,16.0,32.0,48.0,55.04,Billboards viewed from long distance
