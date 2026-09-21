@@ -1,4 +1,5 @@
 # LED Pixel Pitch Calculator
+[![DOI](https://zenodo.org/badge/1380207618.svg)](https://doi.org/10.5281/zenodo.22882808)
 
 A small, dependency-free JavaScript library for planning LED screens. It answers the questions people ask before buying or hiring an LED display:
 
