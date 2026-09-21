@@ -1,0 +1,13 @@
+{
+  "upload_type": "software",
+  "title": "LED Pixel Pitch and Viewing Distance Calculator",
+  "description": "Open-source JavaScript calculator for LED screen pixel pitch, viewing distance and resolution. Based on the LED Screen Pixel Pitch and Viewing Distance Reference Table (doi:10.5281/zenodo.22857054). A web version is available at https://boardsy.co.uk/free-exhibition-display-tools/",
+  "creators": [{"name": "Boardsy"}],
+  "license": "MIT",
+  "language": "eng",
+  "keywords": ["LED display", "pixel pitch", "viewing distance", "LED screen", "digital signage", "calculator"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.22857054", "relation": "references", "resource_type": "dataset"},
+    {"identifier": "https://boardsy.co.uk/free-exhibition-display-tools/", "relation": "isDocumentedBy", "resource_type": "other"}
+  ]
+}
